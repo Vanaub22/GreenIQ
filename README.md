@@ -1,13 +1,12 @@
-
 # GreenIQ - An E-learning Platform for Rural Areas
 ### PROJECT FOR SMART INDIA HACKATHON 2023
 ### Developed by Team Cyber Elites
 ### All Documentation Related to Project GreenIQ:
- - [Use-Case Diagram](https://drive.google.com/file/d/11qCXCMgyq33itaPXaRwQx7hqOhkgTZ2y/view?usp=sharing): Get to know our users and use cases.
- - [Data Flow Diagram (DFD)](https://drive.google.com/file/d/1ZbHHs-9YZClF7W5be4G5Db9tabNy_aEE/view?usp=sharing): Understand the flow of information and tasks.
- - [Extended Presentation](https://drive.google.com/file/d/1xNwzGtiieqZwzYC5U4W0HB58LIma95Yh/view?usp=sharing): The total GreenIQ Pitch.
- - [Short Presentation (SIH'23 Format)](https://drive.google.com/file/d/1cwVDkRmixy_FCWVtnHVEghMNNnBtruZz/view?usp=drive_link): Crisp, Short, Just the Essentials.
- - [User Manual/Booklet](https://drive.google.com/file/d/1fvZosK-_YNBq-w5U0tY9OKI5UwF2h0t1/view?usp=sharing): Intended for the user's understanding.
+ - [Use-Case Diagram](https://drive.google.com/file/d/11qCXCMgyq33itaPXaRwQx7hqOhkgTZ2y/view?usp=sharing)
+ - [Data Flow Diagram (DFD)](https://drive.google.com/file/d/1ZbHHs-9YZClF7W5be4G5Db9tabNy_aEE/view?usp=sharing)
+ - [Extended Presentation](https://drive.google.com/file/d/1xNwzGtiieqZwzYC5U4W0HB58LIma95Yh/view?usp=sharing)
+ - [Short Presentation (SIH'23 Format)](https://drive.google.com/file/d/1cwVDkRmixy_FCWVtnHVEghMNNnBtruZz/view?usp=drive_link)
+ - [User Manual/Booklet](https://drive.google.com/file/d/1fvZosK-_YNBq-w5U0tY9OKI5UwF2h0t1/view?usp=sharing)
 #### How to Run:
 To start the project do the following:
  - Clone this repository.
@@ -31,4 +30,3 @@ Only if you are working on Back-End and have made some changes to the `schema.pr
     cd frontend
     npm install
     npm run dev
-   
