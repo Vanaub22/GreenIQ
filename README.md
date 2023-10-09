@@ -1,6 +1,9 @@
+
 # GreenIQ - An E-learning Platform for Rural Areas
 ### PROJECT FOR SMART INDIA HACKATHON 2023
 ### Developed by Team Cyber Elites
+### Link to our [GreenIQ Web Application Prototype](https://green-iq-deployed.vercel.app/)
+### Link to [Walk-Through Video](https://www.youtube.com/watch?v=9pKMHoUljrI&feature=youtu.be)
 ### All Documentation Related to Project GreenIQ:
  - [Use-Case Diagram](https://drive.google.com/file/d/11qCXCMgyq33itaPXaRwQx7hqOhkgTZ2y/view?usp=sharing)
  - [Data Flow Diagram (DFD)](https://drive.google.com/file/d/1ZbHHs-9YZClF7W5be4G5Db9tabNy_aEE/view?usp=sharing)
